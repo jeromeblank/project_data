@@ -1,0 +1,21 @@
+{
+    "company": "TechBuy",
+    "location": "New York",
+    "employees": [
+        {
+            "name": "John Doe",
+            "position": "Software Engineer",
+            "age": 29
+        },
+        {
+            "name": "Jane Smith",
+            "position": "Project Manager",
+            "age": 34
+        },
+        {
+            "name": "Emily Johnson",
+            "position": "UX Designer",
+            "age": 26
+        }
+    ]
+}
